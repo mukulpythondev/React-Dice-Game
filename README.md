@@ -1,8 +1,10 @@
-# React + Vite
+# Dice Game
+This is my first Game created using React. It is sleek,smooth and responsive project created using React and Tailwind CSS.
+# How To Play
+- Select A Number from list and then click on roll on dice.
+- if your clicked number and dice number match then congrats your score is  incremented by that matched Number.
+- Else you get the -2 for every wrong result.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/mukulpythondev/React-Dice-Game/assets/134795697/1d9bf25a-0e9d-43e8-ad4e-55a1150befd7)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
